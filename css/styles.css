@@ -1,0 +1,19 @@
+/* :root { 
+    --main-text-color: rgb(61, 14, 14);
+}
+
+p:hover {
+    color: red
+}
+
+.Contacts-Section-Link:active {
+    color: var(--main-text-color);
+}
+
+.Contacts-Section-Link {
+    color: green;
+}
+
+.Contacts-Section-Link:hover {
+    color: pink;
+}*/
